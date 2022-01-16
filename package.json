@@ -1,6 +1,6 @@
 {
   "name": "must-be-err",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Error type assertion for TypeScript 4.4+ unknown errors in `catch` clause",
   "type": "module",
   "exports": "./dist/main.js",
